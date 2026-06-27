@@ -37,3 +37,4 @@ print("Heatmap saved!")
 
 print("\nAll 3 charts saved!")
 
+plt
